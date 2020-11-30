@@ -16,5 +16,37 @@
     - fork, pipe 등의 사용여부
     - 코드의 가독성 및 주석의 상세함을 통한 유지보수성
 - ### 실행 결과
-    - ![screensh](./Assignment#1/1.png)
+![screensh1](/img/1.png)
+![screensh](/img/2.png)
+    ![screensh](/img/3.png)
+    ![screensh](/img/4.png)
+    ![screensh](/img/5.png)
 
+## Assignment#2 (CRC)
+
+
+- ### 문제정의
+>36. the goal of this lab exercise is to implement an error-detection mechanism using the standard CRC algorithm described in the text. Write two programs, generator and verifier. The generator program reads from standard input a line of ASCII text containing an n-bit message consisting of a string of 0s and 1s. The second line is the k-bit polynominal, also in ASCII. It outputs to standard a line of ASCII text with n+k 0s and 1s representing the message to be transmitted. Then, it outputs the polynominal, just as it read it in. the verifier program reads in the outputs a message indicating whether it is correct or not, finally write a program, alter, that inverts 1bit on the first line depending on its argument(the bit number counting the leftmost bit as 1) but copies the rest of the two lines correctly.
+By typing
+	Generator <file | verifier
+You should see that the message is correct, but by typing
+	Generator <file| alter arg | verifier
+You should get the error message.
+
+- ### 어싸인 수행에 필요한 것
+    - CRC 개념에 대한 이해, 체크섬에 대한 이해
+    - 리눅스 환경에 대한 이해 명령어 - input - output 파이프라이닝
+
+- ### 채점기준
+    - 코드의 예상-결과 값 일치
+    - 코드의 논리적 구조와 설계
+    - 코드의 가독성 및 주석의 상세함을 통한 유지보수성
+- ### 실행결과
+>비정상 실행 
+![screensh1](/img/6.png)
+
+>정상실행
+![screensh1](/img/7.png)
+
+>file.png
+![screensh1](/img/file.png)
