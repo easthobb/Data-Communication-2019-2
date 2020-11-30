@@ -16,11 +16,11 @@
     - fork, pipe 등의 사용여부
     - 코드의 가독성 및 주석의 상세함을 통한 유지보수성
 - ### 실행 결과
-![screensh1](./img/1.png)
-![screensh](./img/2.png)
-    ![screensh](./img/3.png)
-    ![screensh](./img/4.png)
-    ![screensh](./img/5.png)
+![1](https://user-images.githubusercontent.com/57410044/100576266-273a4680-3321-11eb-8177-456ba3b54f1f.PNG)
+![2](https://user-images.githubusercontent.com/57410044/100576492-9a43bd00-3321-11eb-9ed2-bff981d80a95.PNG)
+![3](https://user-images.githubusercontent.com/57410044/100576502-a0399e00-3321-11eb-8652-af8e75fe4121.PNG)
+![4](https://user-images.githubusercontent.com/57410044/100576508-a465bb80-3321-11eb-8146-05f6c0801e56.PNG)
+![5](https://user-images.githubusercontent.com/57410044/100576517-a9c30600-3321-11eb-8f94-5d05d10fb345.PNG)
 
 ## Assignment#2 (CRC)
 
@@ -43,10 +43,10 @@ You should get the error message.
     - 코드의 가독성 및 주석의 상세함을 통한 유지보수성
 - ### 실행결과
 >비정상 실행 
-![screensh1](./img/6.png)
+![6](https://user-images.githubusercontent.com/57410044/100576538-b3e50480-3321-11eb-8190-c6d625f04689.PNG)
 
 >정상실행
-![screensh1](./img/7.png)
+![7](https://user-images.githubusercontent.com/57410044/100576563-bba4a900-3321-11eb-88d7-7db6a101da46.PNG)
 
 >file.png
-![screensh1](./img/file.png)
+![file](https://user-images.githubusercontent.com/57410044/100576591-c7906b00-3321-11eb-936c-ebc08ea294cb.PNG)
