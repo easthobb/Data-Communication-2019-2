@@ -16,11 +16,11 @@
     - fork, pipe 등의 사용여부
     - 코드의 가독성 및 주석의 상세함을 통한 유지보수성
 - ### 실행 결과
-![screensh1](/img/1.png)
-![screensh](/img/2.png)
-    ![screensh](/img/3.png)
-    ![screensh](/img/4.png)
-    ![screensh](/img/5.png)
+![screensh1](./img/1.png)
+![screensh](./img/2.png)
+    ![screensh](./img/3.png)
+    ![screensh](./img/4.png)
+    ![screensh](./img/5.png)
 
 ## Assignment#2 (CRC)
 
@@ -43,10 +43,10 @@ You should get the error message.
     - 코드의 가독성 및 주석의 상세함을 통한 유지보수성
 - ### 실행결과
 >비정상 실행 
-![screensh1](/img/6.png)
+![screensh1](./img/6.png)
 
 >정상실행
-![screensh1](/img/7.png)
+![screensh1](./img/7.png)
 
 >file.png
-![screensh1](/img/file.png)
+![screensh1](./img/file.png)
